@@ -1,2 +1,2 @@
-# AndroidOnRails
-Yes, you really read it... android on rails, a framework that aims to turn  android development simple as ruby on rails.
+# Android on Rails
+Yes, you read it correctly! **Android on Rails** is a framework inspired by Ruby on Rails that aims to support the *android development* workflow.
