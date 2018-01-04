@@ -1,7 +1,7 @@
 droid
 =========
 
-*AndroidOnRails  command line interface.*
+* AndroidOnRails  command line interface.*
 
 
 Purpose
