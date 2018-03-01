@@ -10,3 +10,4 @@ cd $ANDROID_HOME/tools/
     --target $3 \
     --path $CURRENT_DIRECTORY/$4
 cd $CURRENT_DIRECTORY
+exit 0
